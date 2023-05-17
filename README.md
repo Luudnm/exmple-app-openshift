@@ -1,0 +1,1 @@
+# exmple-app-openshift
